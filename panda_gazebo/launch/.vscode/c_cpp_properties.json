@@ -1,0 +1,50 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/julia/catkin_ws/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/julia/catkin_ws/src/moveit/moveit_planners/chomp/chomp_motion_planner/include/**",
+        "/home/julia/catkin_ws/src/ros_control/combined_robot_hw/include/**",
+        "/home/julia/catkin_ws/src/ros_control/combined_robot_hw_tests/include/**",
+        "/home/julia/catkin_ws/src/ros_control/controller_interface/include/**",
+        "/home/julia/catkin_ws/src/ros_control/controller_manager/include/**",
+        "/home/julia/catkin_ws/src/ros_control/controller_manager_tests/include/**",
+        "/home/julia/catkin_ws/src/franka_ros/franka_control/include/**",
+        "/home/julia/catkin_ws/src/franka_ros/franka_example_controllers/include/**",
+        "/home/julia/catkin_ws/src/franka_ros/franka_gripper/include/**",
+        "/home/julia/catkin_ws/src/franka_ros/franka_hw/include/**",
+        "/home/julia/catkin_ws/src/franka_ros_interface/franka_interface/include/**",
+        "/home/julia/catkin_ws/src/franka_ros_interface/franka_ros_controllers/include/**",
+        "/home/julia/catkin_ws/src/geometric_shapes/include/**",
+        "/home/julia/catkin_ws/src/ros_control/hardware_interface/include/**",
+        "/home/julia/catkin_ws/src/ros_control/joint_limits_interface/include/**",
+        "/home/julia/catkin_ws/src/moveit/moveit_planners/chomp/chomp_interface/include/**",
+        "/home/julia/catkin_ws/src/moveit_resources/prbt_ikfast_manipulator_plugin/include/**",
+        "/home/julia/catkin_ws/src/moveit/moveit_ros/benchmarks/include/**",
+        "/home/julia/catkin_ws/src/moveit/moveit_plugins/moveit_ros_control_interface/include/**",
+        "/home/julia/catkin_ws/src/moveit/moveit_ros/move_group/include/**",
+        "/home/julia/catkin_ws/src/moveit/moveit_ros/occupancy_map_monitor/include/**",
+        "/home/julia/catkin_ws/src/moveit/moveit_ros/robot_interaction/include/**",
+        "/home/julia/catkin_ws/src/moveit/moveit_ros/moveit_servo/include/**",
+        "/home/julia/catkin_ws/src/moveit/moveit_setup_assistant/include/**",
+        "/home/julia/catkin_ws/src/moveit/moveit_plugins/moveit_simple_controller_manager/include/**",
+        "/home/julia/catkin_ws/src/moveit_visual_tools/include/**",
+        "/home/julia/catkin_ws/src/panda_simulator/panda_gazebo/include/**",
+        "/home/julia/catkin_ws/src/panda_simulator/panda_hardware_interface/include/**",
+        "/home/julia/catkin_ws/src/panda_simulator/panda_sim_controllers/include/**",
+        "/home/julia/catkin_ws/src/moveit/moveit_planners/pilz_industrial_motion_planner/include/**",
+        "/home/julia/catkin_ws/src/moveit/moveit_planners/pilz_industrial_motion_planner_testutils/include/**",
+        "/home/julia/catkin_ws/src/rviz_visual_tools/include/**",
+        "/home/julia/catkin_ws/src/ros_control/transmission_interface/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}
